@@ -24,7 +24,7 @@ header img {
 
 #skip:focus {
   visibility: visible;
-  color: white;
+  color: #c6d9de;
 }
 
 nav {
@@ -129,4 +129,8 @@ p {
   font-weight: 300;
   font-size: smaller;
   font-style: italic;
+}
+
+#back {
+  color: #c6d9de;
 }
